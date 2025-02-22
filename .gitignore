@@ -1,0 +1,20 @@
+# Start Generation Here
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+# End Generation Here
